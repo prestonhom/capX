@@ -1,6 +1,6 @@
 <h1 style="text-align:center; width:100%;" > capX </h1>
 
-<img src='main_app/static/images/readmescreenshot.png' alt="Accounts" title="Accounts" width="500px" height="500px" />
+<img src='main_app/static/images/readmescreenshot.png' alt="Accounts" title="Accounts" width="100%" height="600px" />
 
 
 ## INTRODUCTION
